@@ -1,1 +1,2 @@
-# Databases-Project-
+# Databases Project
+In this Project, I worked in a group to develop a boat management system. We used PostegreSQL to develop the database, constructing the tables necessary, populating them, and developing specific queries. Then, we built a web app which accessed this information and allowed its users to add and remove boats, sailors, and reservations from the system. The app was developed in html. The connection between the web app and the database was performed using Python.
